@@ -44,12 +44,6 @@ Amazon S3 (Website Files)
 6. Configured `index.html` as the default root object.
 7. Tested the CloudFront URL on desktop and mobile.
 
-## Live Demo
-
-Replace the URL below with your current CloudFront distribution URL:
-
-`https://YOUR-CLOUDFRONT-DOMAIN.cloudfront.net`
-
 ## Project Structure
 
 ```text
